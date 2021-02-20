@@ -1,0 +1,179 @@
+Postal Code,Neighbourhood,Borough,Population,Density (people/km2),Average Income,Transit Commuting %,% Renters
+M1B,Malvern,Scarborough,44324,5003,25677,13.6,8.2
+M1B,Rouge,Scarborough,22724,791,29230,12.1,2.7
+M1C,Highland Creek,Scarborough,12853,2505,33640,9.7,1.8
+M1C,Port Union,Scarborough,12450,2310,48117,11.1,2
+M1C,Rouge Hill,Scarborough,11167,2878,32858,13.5,8.6
+M1C,West Rouge,Scarborough,9300,2090,44605,14.1,0.8
+M1E,Guildwood,Scarborough,12820,2688,40806,11.6,8
+M1E,Morningside,Scarborough,11472,4112,27139,14.9,13.2
+M1E,West Hill,Scarborough,25632,2676,27936,14.6,14.7
+M1G,Woburn,Scarborough,48507,3636,26190,13.3,16
+M1J,Scarborough Village,Scarborough,12796,6303,24413,16.2,22
+M1K,Ionview,Scarborough,13025,6714,25078,21.1,22.5
+M1K,Scarborough Junction,Scarborough,25780,3479,25405,18.2,15.7
+M1L,Oakridge,Scarborough,13368,7187,21155,20.8,27.1
+M1L,Clairlea,Scarborough,11104,3102,33392,18.1,12.7
+M1L,Eglinton East,Scarborough,22387,6931,25307,19.4,19.1
+M1M,Cliffcrest,Scarborough,14531,2073,38182,12.5,12.2
+M1M,Cliffside,Scarborough,9386,3831,32701,14.8,11.4
+M1N,Birch Cliff,Scarborough,12266,3525,48965,11.4,15.2
+M1P,Dorset Park,Scarborough,14189,3331,26525,15.2,9.6
+M1P,Bendale,Scarborough,28945,3409,29723,13,10.4
+M1P,Scarborough City Centre,Scarborough,16403,6358,26756,14.6,15.6
+M1R,Maryvale,Scarborough,8800,3860,30944,12.3,11.4
+M1R,Wexford,Scarborough,17844,2239,28556,14,15.1
+M1S,Agincourt,Scarborough,44577,3580,25750,11.1,5.9
+M1T,Tam O'Shanter-Sullivan,Scarborough,27235,5006,27717,12.2,15.3
+M1V,L'Amoreaux,Scarborough,45862,6414,26375,13.4,11.4
+M1V,Milliken,Scarborough,26272,3654,25243,12.3,3.9
+M1W,Steeles,Scarborough,24696,5464,26660,10.5,5.1
+M2H,Hillcrest,North York,18327,3426,33465,12,8
+M2J,Henry Farm,North York,2790,3066,56395,15.6,15.9
+M2J,Don Valley Village,North York,29740,5764,30442,17.1,16.6
+M2J,Parkway Forest,North York,8498,4970,24333,21.7,24.2
+M2J,Pleasant View,North York,16615,5465,29250,13.2,8.2
+M2K,Bayview Village,North York,12280,2966,46752,14.4,15.6
+M2L,York Mills/Siver Hill,North York,17564,2409,92099,10,11.8
+M2M,Bayview Woods-Steeles,North York,13298,3267,41485,11.2,13.9
+M2M,Newtonbrook,North York,36046,4110,33428,16.6,14.3
+M2N,Willowdale East,North York,43144,5618,39895,15.6,12.9
+M2N,Lansing,North York,10052,3285,46631,18.7,17
+M2P,York Mills West,North York,,,,,
+M2P,Hoggs Hollow,North York,3123,1132,222560,4.3,2.9
+M2R,Willowdale West,North York,23265,,,,
+M2R,Branson,North York,8017,6414,27156,18,27.2
+M2R,Westminster,North York,16386,6914,27826,14.6,23.4
+M3A,Parkwoods,North York,26533,5349,34811,14,22.5
+M3A,Graydon Hall,North York,4714,6639,23350,15.6,35.2
+M3B,Don Mills North,North York,21372,2377,47515,10.8,18.6
+M3B,Banbury,North York,6641,2442,92319,6.1,4.8
+M3B,Bridle Path,North York,1540,445,314107,7.1,2.3
+M3C,Flemingdon Park,North York,21287,8760,23471,16.6,19.6
+M3H,Bathurst Manor,North York,14945,3187,34169,13.4,18.6
+M3H,Wilson Heights,North York,13732,3317,37978,15.9,18
+M3H,Armour Heights,North York,4384,1914,116651,10.8,16.1
+M3J,York University Heights,North York,26140,1979,24432,15.2,20.4
+M3J,Elia (Jane and Finch),North York,48003,6267,22691,13,18.8
+M3K,Downsview East,North York,36613,2270,26751,14.4,18.3
+M3L,Downsview West,,36613,2270,26751,14.4,18.3
+M3M,Downsview Central ,,36613,2270,26751,14.4,18.3
+M3N,Downsview Northwest,,36613,2270,26751,14.4,18.3
+M4A,Victoria Village,North York,17047,3612,29657,15.6,23.4
+M4B,Parkview Hill,East York,17740,3591,33517,15.8,19.4
+M4C,Crescent Town,East York,8157,20393,23021,24.5,20.3
+M4E,The Beaches,East Toronto,20416,5719,67536,13.8,16.2
+M4G,Leaside,East York,13876,4938,82670,9.7,10.5
+M4G,Governor's Bridge/Bennington Heights,East York,2112,1129,129904,7.1,13.3
+M4H,Thorncliffe Park,East York,17949,5809,25340,16.7,32.5
+M4J,The Danforth East,East Toronto,21440,8576,33847,24.2,18.3
+M4J,Leslieville,East Toronto,23567,8761,30886,19.9,15.4
+M4J,Old East York,East York,52220,6577,33172,22,19.1
+M4K,Playter Estates,East Toronto,3968,7936,44557,26.8,35
+M4K,Riverdale,East Toronto,31007,7771,40139,20,17.8
+M4K,The Danforth West,East Toronto,7849,9022,44979,23.3,19
+M4L,Upper Beaches,East Toronto,19830,6791,44346,18.6,17.4
+M4M,Port Lands,Downtown Toronto,571,94,36243,14.9,10.5
+M4N,Lawrence Park,Central Toronto,6653,1828,214110,8.3,4.6
+M4P,Davisville North,Central Toronto,23727,7556,55735,26,31.7
+M4R,Lytton Park,Central Toronto,6494,5073,127356,15.1,12.9
+M4S,Davisville ,Central Toronto,,,,,
+M4T,Moore Park,Central Toronto,4474,3959,154825,11,7.5
+M4T,Summerhill,Central Toronto,5100,7846,88937,17.5,24.1
+M4V,Casa Loma,Central Toronto,3597,5369,82203,18.1,32.9
+M4V,Deer Park,Central Toronto,15165,10387,80704,26.4,41.3
+M4V,South Hill,Central Toronto,6218,4935,120453,16.1,29.8
+M4W,Rosedale,Downtown Toronto,7672,2821,213941,11.3,11.9
+M4X,Cabbagetown,Downtown Toronto,11120,7943,50398,18.5,29.6
+M4Y,Church and Wellesley,Downtown Toronto,13397,24358,37653,25.1,57
+M5A,Corktown,Downtown Toronto,4484,6693,54681,15.5,17.6
+M5A,Distillery District/West Don Lands,Downtown Toronto,6378,4795,40617,19.5,37.5
+M5A,"Regent Park, Trefann Court",Downtown Toronto,10387,16230,19521,16,31.2
+M5B,Garden District,Downtown Toronto,8240,15846,37614,17,35.5
+M5C,St. James Town,Downtown Toronto,14666,63765,22341,27.4,46.2
+M5G,Central Bay Street,Downtown Toronto,4787,43518,40598,17.1,49.3
+M5H,Financial District,Downtown Toronto,548,1166,63952,18.2,17.3
+M5J,Toronto Islands,Downtown Toronto,627,198,43344,18.3,5.6
+M5M,Bedford Park,North York,13749,6057,80827,15.2,10.1
+M5M,Cricket Club,North York,5504,2808,104362,8.7,15.4
+M5M,Ledbury Park,North York,12360,4944,83853,9.5,12.2
+M5N,Allenby,Central Toronto,2513,4333,245592,5.2,3.4
+M5P,Chaplin Estates,Central Toronto,4906,5275,81288,22.7,24.5
+M5P,Forest Hill,Central Toronto,24056,5530,101631,14.8,21.9
+M5R,The Annex,Central Toronto,15602,10614,63636,22.1,41.9
+M5R,Yorkville,Central Toronto,6045,10795,105239,18.3,27.9
+M5S,Discovery District,Downtown Toronto,7262,6998,41998,12.7,32.1
+M5S,Harbord Village,Downtown Toronto,5906,9228,45792,16.8,24
+M5T,Alexandra Park,Downtown Toronto,4355,13609,19687,13.8,28
+M5T,Grange Park,Downtown Toronto,9007,10793,35277,13.3,35.6
+M5T,Kensington Market,Downtown Toronto,3740,10389,23335,15,25.1
+M5V,Fashion District,Downtown Toronto,4642,4737,63282,15.5,26.2
+M5V,Harbourfront/City Place,Downtown Toronto,14368,9228,69232,16,31.3
+M5V,Niagara,Downtown Toronto,6524,11862,44611,21.2,21.4
+M6A,Lawrence Heights,North York,3769,1178,29867,15,13.9
+M6A,Lawrence Manor,North York,13750,6425,36361,15.9,23.8
+M6A,Glen Park,North York,18426,4462,35022,13.6,17
+M6B,Caribou Park,North York,4097,4017,103703,8.4,7.6
+M6C,Humewood-Cedarvale,York,27515,8624,40404,24.2,26
+M6E,Earlscourt,York,17240,7696,26672,17.7,8.5
+M6G,Bracondale Hill,Downtown Toronto,5343,8618,41605,18.2,24.2
+M6G,Christie ,Downtown Toronto,5124,8006,30556,18.8,15.3
+M6G,Little Italy,Downtown Toronto,7917,9774,31231,15.5,17
+M6G,Seaton Village,Downtown Toronto,5259,8482,41506,19.1,17.3
+M6G,Wychwood,Downtown Toronto,4182,6150,53613,17.1,20.1
+M6H,Davenport,West Toronto,8781,8870,28335,19.8,18.2
+M6H,Dovercourt Village,West Toronto,8497,9767,28311,21.9,15.1
+M6H,Dufferin Grove,West Toronto,9875,9975,27961,23.8,28.4
+M6H,Regal Heights,West Toronto,2719,7155,36652,24.5,19.7
+M6H,Wallace Emerson,West Toronto,10338,11748,25029,22.8,23
+M6J,Little Portugal,West Toronto,5013,10231,29224,16.6,21.6
+M6J,West Toronto,West Toronto,8687,9442,31106,17.7,16.5
+M6K,Brockton,West Toronto,9039,8217,27260,22.3,17.3
+M6K,Fort York/Liberty Village,West Toronto,3821,1794,46086,22.8,27.9
+M6K,Parkdale Village,West Toronto,28367,13974,26314,22.2,39
+M6L,Maple Leaf,North York,20313,4425,27611,11.8,18.8
+M6L,Amesbury,North York,17318,4934,27546,16.4,19.7
+M6M,Mount Dennis,York,21284,6469,23910,18.2,19.9
+M6M,Silverthorn,York,17757,5045,26291,15.8,16.6
+M6N,Carleton Village,York,6544,8843,23301,19,19.9
+M6N,Runnymede,York,4382,5155,42635,17.3,7.1
+M6N,The Junction North,York,11391,4827,34906,18,17
+M6N,Lambton,York,9654,3523,30920,14.2,15.9
+M6N,Rockcliffe-Smythe,York,4681,4826,28723,16.3,9
+M6P,High Park North,West Toronto,22746,10434,46437,27.5,32.8
+M6P,Junction Triangle,West Toronto,6666,9258,28067,20,18.8
+M6R,Roncesvalles,West Toronto,15996,8079,46820,21.9,22.7
+M6S,Bloor West Village,West Toronto,5175,6993,55578,20.7,8.3
+M6S,Old Mill/Baby Point,West Toronto,4010,3748,110372,16.1,10.7
+M6S,Swansea,West Toronto,11133,2961,58681,18.3,12.8
+M8V,Humber Bay Shores,Etobicoke,10775,7588,39186,15.7,31.6
+M8V,New Toronto,Etobicoke,10455,3858,33415,13,25.6
+M8W,Alderwood,Etobicoke,11656,2360,35239,8.8,8.5
+M8W,Long Branch,Etobicoke,9625,4336,37288,14.2,23
+M8X,The Kingsway,Etobicoke,8780,3403,110944,11.8,6.2
+M8Y,Mimico,Etobicoke,14198,2629,47011,11.6,15.5
+M8Y,Sunnylea,Etobicoke,17602,3366,51398,13,17.1
+M8Z,The Queensway,Etobicoke,6207,2369,38944,12.9,9
+M9A,Humber Valley Village,Etobicoke,14453,2652,80618,12,17.8
+M9B,Islington,Etobicoke,16508,4106,43570,17.1,22.2
+M9B,Princess Gardens,Etobicoke,9288,2249,80607,7.2,5.8
+M9B,West Deane Park,Etobicoke,4395,2063,41582,8.3,4.9
+M9B,Eatonville,Etobicoke,19131,1699,36206,12.6,13.4
+M9C,Markland Wood,Etobicoke,10240,3507,51695,9.2,9.7
+M9C,Centennial,Etobicoke,12565,2544,34867,11.5,8.8
+M9L,Humber Summit,North York,12766,1618,26117,7.3,7.6
+M9M,The Elms,Etobicoke,9437,3300,28014,12.6,13.7
+M9M,Humberlea,North York,4327,2164,30907,8.7,7.9
+M9M,Humbermede,North York,14778,3397,24297,11.8,14.6
+M9M,Pelmo Park,North York,4402,2001,32002,9.4,3.6
+M9N,Weston,York,16476,6564,27446,15.5,26.5
+M9P,Humber Heights,Etobicoke,4674,2766,39738,10.1,9.7
+M9P,Westmount,Etobicoke,5857,5932,35183,9.6,23.4
+M9R,Kingsview Village,Etobicoke,16254,4013,32004,11.8,14.6
+M9R,Richview,Etobicoke,26053,4002,34579,10.6,16.3
+M9V,Thistletown,Etobicoke,16790,4229,28955,11.2,13.7
+M9V,Smithfield,Etobicoke,34996,5426,24387,12.8,12.7
+M9W,Clairville,Etobicoke,8506,1268,26610,13.2,7.2
+M9W,Humberwood,Etobicoke,7319,421,29576,7.9,7
+M2N,North York City Centre,North York,10427,37239,34330,19,19.5
+M6N,Harwood,York,3375,4327,22136,12.3,17.8
